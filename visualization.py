@@ -5,7 +5,7 @@ import plotly.express as px
 def app():
 
     # Load data from the uploaded CSV file
-    file_path = '/mnt/data/campaign_data.csv'
+    file_path = 'campaign_data.csv'
     data = pd.read_csv(file_path)
 
     # Display the data table in Streamlit
