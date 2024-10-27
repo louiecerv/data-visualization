@@ -1,0 +1,201 @@
+Date,Campaign Name,Channel,Spend ($),Impressions,Clicks,Conversions
+2023-01-01,Holiday Sale,Email,942,17282,807,32
+2023-01-02,Spring Discount,Search,599,11716,644,16
+2023-01-04,Halloween Sale,Search,503,9634,477,15
+2023-01-06,Holiday Sale,Search,477,11360,658,25
+2023-01-08,Halloween Sale,Social,409,8617,464,16
+2023-01-10,New Year Sale,Search,804,13893,698,26
+2023-01-11,Halloween Sale,Social,103,529,28,0
+2023-01-13,Valentine's Promo,Email,283,8040,380,6
+2023-01-15,New Year Sale,Email,328,7191,289,11
+2023-01-17,Summer Sale,Search,222,2856,181,6
+2023-01-19,Back to School,Search,700,13546,704,36
+2023-01-21,Back to School,Social,668,13359,708,37
+2023-01-22,Back to School,Social,671,16365,862,35
+2023-01-24,Easter Sale,Search,598,15739,756,27
+2023-01-26,Halloween Sale,Social,509,11378,573,23
+2023-01-28,Valentine's Promo,Email,537,10792,490,14
+2023-01-30,Spring Discount,Social,980,17734,886,26
+2023-02-01,Summer Sale,Social,680,10753,435,18
+2023-02-02,Valentine's Promo,Search,897,17959,946,35
+2023-02-04,Spring Discount,Search,410,6997,345,12
+2023-02-06,Easter Sale,Search,399,8155,449,17
+2023-02-08,Easter Sale,Email,659,13025,660,22
+2023-02-10,New Year Sale,Social,620,7569,347,10
+2023-02-12,New Year Sale,Email,346,3758,156,10
+2023-02-13,Summer Sale,Social,609,14356,731,28
+2023-02-15,Easter Sale,Email,215,5524,252,15
+2023-02-17,Spring Discount,Search,856,18479,992,39
+2023-02-19,Back to School,Social,557,9150,558,33
+2023-02-21,Spring Discount,Email,855,16424,782,34
+2023-02-23,Halloween Sale,Social,450,12325,586,30
+2023-02-24,Easter Sale,Search,877,15510,752,32
+2023-02-26,Easter Sale,Email,881,17169,823,39
+2023-02-28,Valentine's Promo,Search,371,8996,507,20
+2023-03-02,Back to School,Search,993,19623,911,37
+2023-03-04,Valentine's Promo,Email,642,14204,764,25
+2023-03-06,New Year Sale,Social,177,3320,203,11
+2023-03-07,New Year Sale,Email,822,15120,676,17
+2023-03-09,Holiday Sale,Social,284,6385,295,16
+2023-03-11,New Year Sale,Email,387,3720,194,4
+2023-03-13,Halloween Sale,Social,248,4979,237,4
+2023-03-15,Spring Discount,Search,577,14003,635,30
+2023-03-16,Holiday Sale,Social,774,14653,721,26
+2023-03-18,Halloween Sale,Search,181,5565,196,13
+2023-03-20,Valentine's Promo,Email,621,11244,473,19
+2023-03-22,Easter Sale,Search,594,13000,626,30
+2023-03-24,Summer Sale,Search,106,2829,243,3
+2023-03-26,Spring Discount,Social,646,10020,437,23
+2023-03-27,Valentine's Promo,Search,588,8263,405,15
+2023-03-29,Summer Sale,Social,767,14609,583,27
+2023-03-31,New Year Sale,Email,643,15031,729,26
+2023-04-02,Back to School,Email,212,3016,123,0
+2023-04-04,Back to School,Email,586,10483,592,28
+2023-04-06,Back to School,Email,152,6450,278,12
+2023-04-07,Spring Discount,Social,956,16422,784,33
+2023-04-09,Valentine's Promo,Search,903,16684,915,31
+2023-04-11,Spring Discount,Search,916,19535,1017,36
+2023-04-13,Easter Sale,Email,891,17888,878,38
+2023-04-15,Halloween Sale,Email,968,20117,1088,43
+2023-04-17,Back to School,Email,760,13505,640,21
+2023-04-18,Holiday Sale,Search,698,12146,567,26
+2023-04-20,Holiday Sale,Search,131,2790,87,4
+2023-04-22,Back to School,Search,681,13349,773,24
+2023-04-24,Valentine's Promo,Social,383,9311,474,15
+2023-04-26,Halloween Sale,Search,299,8952,467,14
+2023-04-28,Back to School,Email,297,8769,490,29
+2023-04-29,Back to School,Search,930,19770,960,39
+2023-05-01,Summer Sale,Social,988,20839,1137,52
+2023-05-03,Easter Sale,Search,699,12599,616,25
+2023-05-05,Holiday Sale,Social,459,10547,584,20
+2023-05-07,Valentine's Promo,Social,322,7134,428,13
+2023-05-09,Summer Sale,Search,845,16745,828,42
+2023-05-10,Halloween Sale,Email,800,14312,733,23
+2023-05-12,Valentine's Promo,Search,629,12952,643,36
+2023-05-14,Spring Discount,Search,284,5980,209,9
+2023-05-16,Summer Sale,Email,132,5259,232,5
+2023-05-18,New Year Sale,Email,611,11019,550,24
+2023-05-20,Easter Sale,Email,816,15957,723,31
+2023-05-21,Summer Sale,Email,807,18117,862,42
+2023-05-23,New Year Sale,Email,344,10261,552,20
+2023-05-25,Halloween Sale,Search,894,15943,833,36
+2023-05-27,Holiday Sale,Email,877,17760,881,40
+2023-05-29,Spring Discount,Search,570,10244,499,18
+2023-05-30,Holiday Sale,Social,725,14633,721,24
+2023-06-01,Easter Sale,Social,320,8550,448,8
+2023-06-03,Spring Discount,Social,265,6779,341,19
+2023-06-05,Summer Sale,Search,347,6673,309,0
+2023-06-07,Holiday Sale,Social,250,6462,371,16
+2023-06-09,New Year Sale,Social,449,6097,358,25
+2023-06-10,Easter Sale,Social,928,19961,1005,32
+2023-06-12,Valentine's Promo,Email,241,4422,176,5
+2023-06-14,Easter Sale,Email,150,4488,182,12
+2023-06-16,Easter Sale,Search,174,3414,57,0
+2023-06-18,Spring Discount,Social,214,4405,249,10
+2023-06-20,Summer Sale,Search,181,1792,157,5
+2023-06-21,Easter Sale,Social,459,10677,596,28
+2023-06-23,Spring Discount,Social,237,4119,127,10
+2023-06-25,Spring Discount,Search,870,12811,658,28
+2023-06-27,Holiday Sale,Search,427,9304,434,13
+2023-06-29,Back to School,Social,450,7928,368,22
+2023-07-01,New Year Sale,Email,385,4231,252,0
+2023-07-02,Valentine's Promo,Email,831,16221,789,31
+2023-07-04,New Year Sale,Email,191,3580,29,3
+2023-07-06,Holiday Sale,Email,603,13333,639,22
+2023-07-08,Easter Sale,Search,404,6933,320,14
+2023-07-10,Back to School,Search,754,12735,682,23
+2023-07-12,Easter Sale,Social,700,14007,717,31
+2023-07-13,Holiday Sale,Email,598,10832,563,23
+2023-07-15,Valentine's Promo,Email,875,16978,774,30
+2023-07-17,Holiday Sale,Email,192,6057,312,10
+2023-07-19,Summer Sale,Search,919,14613,774,29
+2023-07-21,Halloween Sale,Email,884,19651,1075,46
+2023-07-23,Back to School,Search,529,11053,560,25
+2023-07-24,Holiday Sale,Search,673,14752,651,28
+2023-07-26,Halloween Sale,Social,831,14134,766,32
+2023-07-28,Valentine's Promo,Email,577,10524,476,21
+2023-07-30,Valentine's Promo,Social,826,16999,846,25
+2023-08-01,Halloween Sale,Email,307,5674,260,15
+2023-08-03,Holiday Sale,Social,440,10938,489,12
+2023-08-04,Holiday Sale,Social,476,10603,598,35
+2023-08-06,New Year Sale,Search,684,11603,589,17
+2023-08-08,Back to School,Search,997,18744,921,43
+2023-08-10,Spring Discount,Search,997,23503,1106,38
+2023-08-12,Spring Discount,Email,406,8754,441,28
+2023-08-13,New Year Sale,Social,556,12704,703,29
+2023-08-15,Halloween Sale,Social,537,12461,717,33
+2023-08-17,Summer Sale,Search,370,5502,287,14
+2023-08-19,Halloween Sale,Search,467,9699,561,30
+2023-08-21,Easter Sale,Social,362,4153,185,11
+2023-08-23,Summer Sale,Email,928,19028,998,38
+2023-08-24,Halloween Sale,Search,637,14033,744,42
+2023-08-26,Halloween Sale,Email,524,10639,395,15
+2023-08-28,Easter Sale,Search,646,16012,815,32
+2023-08-30,Holiday Sale,Search,533,12347,658,22
+2023-09-01,Halloween Sale,Email,766,15546,725,25
+2023-09-03,Halloween Sale,Search,943,17491,875,40
+2023-09-04,Holiday Sale,Social,489,13437,642,26
+2023-09-06,Halloween Sale,Social,240,1376,77,4
+2023-09-08,Summer Sale,Search,588,10495,647,16
+2023-09-10,Spring Discount,Search,810,17052,913,42
+2023-09-12,Spring Discount,Email,408,6862,318,2
+2023-09-14,New Year Sale,Search,924,14264,673,23
+2023-09-15,Holiday Sale,Search,160,1776,0,0
+2023-09-17,Summer Sale,Search,346,1599,75,12
+2023-09-19,Valentine's Promo,Email,248,6296,320,11
+2023-09-21,Holiday Sale,Email,943,20996,1025,38
+2023-09-23,Holiday Sale,Email,725,14386,707,28
+2023-09-25,Spring Discount,Social,640,12656,681,35
+2023-09-26,Valentine's Promo,Email,423,3956,207,6
+2023-09-28,Summer Sale,Email,747,13548,570,19
+2023-09-30,Valentine's Promo,Email,611,9110,419,10
+2023-10-02,Back to School,Email,223,3071,100,11
+2023-10-04,Easter Sale,Social,662,15704,754,40
+2023-10-06,Easter Sale,Email,370,3833,144,6
+2023-10-07,Spring Discount,Social,481,8260,473,18
+2023-10-09,Halloween Sale,Social,248,1943,75,13
+2023-10-11,Valentine's Promo,Email,339,6473,314,13
+2023-10-13,Spring Discount,Social,828,17264,945,33
+2023-10-15,Spring Discount,Search,163,3168,149,0
+2023-10-17,Summer Sale,Email,850,14722,695,27
+2023-10-18,Summer Sale,Search,908,22578,1096,31
+2023-10-20,Easter Sale,Social,981,17529,873,33
+2023-10-22,New Year Sale,Email,869,17842,815,34
+2023-10-24,Halloween Sale,Email,979,17493,905,34
+2023-10-26,Summer Sale,Email,786,14141,708,20
+2023-10-27,Back to School,Email,981,19013,951,39
+2023-10-29,Summer Sale,Social,111,994,122,2
+2023-10-31,Valentine's Promo,Social,632,13136,588,27
+2023-11-02,Valentine's Promo,Social,743,14191,673,23
+2023-11-04,New Year Sale,Search,172,247,21,0
+2023-11-06,Easter Sale,Search,360,7214,252,13
+2023-11-07,Valentine's Promo,Social,561,15812,813,33
+2023-11-09,Halloween Sale,Email,559,12758,613,31
+2023-11-11,Summer Sale,Email,682,13511,767,32
+2023-11-13,Spring Discount,Email,650,10287,558,19
+2023-11-15,New Year Sale,Email,882,13105,668,25
+2023-11-17,Spring Discount,Social,594,11961,612,32
+2023-11-18,Back to School,Email,970,19119,874,30
+2023-11-20,Back to School,Email,305,5988,307,1
+2023-11-22,Easter Sale,Search,314,6064,274,10
+2023-11-24,Back to School,Social,599,11353,571,23
+2023-11-26,Summer Sale,Search,419,5428,204,1
+2023-11-28,Spring Discount,Social,139,4419,226,2
+2023-11-29,Easter Sale,Social,311,2723,72,0
+2023-12-01,Holiday Sale,Email,916,21593,1044,48
+2023-12-03,Valentine's Promo,Search,174,-499,0,0
+2023-12-05,New Year Sale,Social,170,2736,204,13
+2023-12-07,Valentine's Promo,Email,944,20421,1009,40
+2023-12-09,Easter Sale,Search,370,7621,338,16
+2023-12-10,Summer Sale,Social,535,7522,372,19
+2023-12-12,Summer Sale,Social,493,11042,578,33
+2023-12-14,Valentine's Promo,Social,862,18875,1025,40
+2023-12-16,Back to School,Search,480,10273,587,19
+2023-12-18,Summer Sale,Search,167,-342,0,0
+2023-12-20,Summer Sale,Email,624,13330,626,23
+2023-12-21,New Year Sale,Email,518,11107,567,20
+2023-12-23,Summer Sale,Email,271,5398,153,13
+2023-12-25,Halloween Sale,Search,943,18175,891,36
+2023-12-27,Back to School,Search,981,18183,886,35
+2023-12-29,Easter Sale,Search,190,3772,191,6
+2023-12-31,Valentine's Promo,Email,606,12596,615,24
